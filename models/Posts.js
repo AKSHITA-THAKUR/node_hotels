@@ -9,5 +9,6 @@ const postsSchema = new mongoose.Schema({
   date: { type: Date, required: true },
 });
 const Posts = mongoose.model("Posts", postsSchema);
-
+//This is the comment in post.js file
 module.export = Posts;
+//another comment
