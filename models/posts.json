@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "name": "Technology"
+    },
+    {
+      "category_id": 2,
+      "name": "Science"
+    },
+    {
+      "category_id": 3,
+      "name": "Travel"
+    },
+    {
+      "category_id": 4,
+      "name": "Food"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": 1,
+      "title": "Introduction to Artificial Intelligence",
+      "content": "Artificial Intelligence is the simulation of human intelligence processes by machines, especially computer systems.",
+      "category_id": 1
+    },
+    {
+      "post_id": 2,
+      "title": "The Importance of Vaccination",
+      "content": "Vaccination plays a crucial role in preventing infectious diseases and safeguarding public health.",
+      "category_id": 2
+    },
+    {
+      "post_id": 3,
+      "title": "Exploring the Grand Canyon",
+      "content": "The Grand Canyon is a breathtaking natural wonder located in Arizona, USA, attracting millions of visitors each year.",
+      "category_id": 3
+    },
+    {
+      "post_id": 4,
+      "title": "Delicious Pasta Recipes",
+      "content": "Discover a variety of delicious pasta recipes from around the world, perfect for pasta lovers.",
+      "category_id": 4
+    },
+    {
+      "post_id": 5,
+      "title": "The Future of Space Exploration",
+      "content": "Advancements in technology are leading to exciting possibilities for the future of space exploration.",
+      "category_id": 2
+    }
+  ]
+}

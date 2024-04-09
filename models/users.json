@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "first_name": "John",
+      "last_name": "Doe",
+      "age": 30,
+      "gender": "male",
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "age": 25,
+      "gender": "female",
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "username": "mike_jones",
+      "email": "mike@example.com",
+      "first_name": "Mike",
+      "last_name": "Jones",
+      "age": 35,
+      "gender": "male",
+      "city": "Chicago",
+      "country": "USA"
+    },
+    {
+      "id": 4,
+      "username": "sarah_brown",
+      "email": "sarah@example.com",
+      "first_name": "Sarah",
+      "last_name": "Brown",
+      "age": 28,
+      "gender": "female",
+      "city": "Houston",
+      "country": "USA"
+    },
+    {
+      "id": 5,
+      "username": "david_wilson",
+      "email": "david@example.com",
+      "first_name": "David",
+      "last_name": "Wilson",
+      "age": 40,
+      "gender": "male",
+      "city": "Miami",
+      "country": "USA"
+    },
+    {
+      "id": 6,
+      "username": "emily_adams",
+      "email": "emily@example.com",
+      "first_name": "Emily",
+      "last_name": "Adams",
+      "age": 22,
+      "gender": "female",
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    {
+      "id": 7,
+      "username": "chris_evans",
+      "email": "chris@example.com",
+      "first_name": "Chris",
+      "last_name": "Evans",
+      "age": 32,
+      "gender": "male",
+      "city": "Seattle",
+      "country": "USA"
+    },
+    {
+      "id": 8,
+      "username": "amanda_kelly",
+      "email": "amanda@example.com",
+      "first_name": "Amanda",
+      "last_name": "Kelly",
+      "age": 27,
+      "gender": "female",
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "id": 9,
+      "username": "ryan_garcia",
+      "email": "ryan@example.com",
+      "first_name": "Ryan",
+      "last_name": "Garcia",
+      "age": 33,
+      "gender": "male",
+      "city": "Dallas",
+      "country": "USA"
+    },
+    {
+      "id": 10,
+      "username": "lisa_miller",
+      "email": "lisa@example.com",
+      "first_name": "Lisa",
+      "last_name": "Miller",
+      "age": 29,
+      "gender": "female",
+      "city": "Philadelphia",
+      "country": "USA"
+    }
+  ]
+  
